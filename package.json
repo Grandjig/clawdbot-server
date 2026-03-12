@@ -2,7 +2,7 @@
   "name": "clawdbot-server",
   "version": "1.0.0",
   "scripts": {
-    "start": "clawdbot gateway --force"
+    "start": "clawdbot gateway"
   },
   "dependencies": {
     "clawdbot": "latest"
