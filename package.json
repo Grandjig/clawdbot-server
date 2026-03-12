@@ -1,6 +1,10 @@
 {
   "name": "clawdbot-server",
   "version": "1.0.0",
-  "scripts": {"start": "npx clawdbot gateway --force"},
-  "dependencies": {}
+  "scripts": {
+    "start": "clawdbot gateway --force"
+  },
+  "dependencies": {
+    "clawdbot": "latest"
+  }
 }
