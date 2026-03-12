@@ -1,10 +1,1 @@
-{
-  "name": "clawdbot-server",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "clawdbot gateway"
-  },
-  "dependencies": {
-    "clawdbot": "latest"
-  }
-}
+{"name":"clawdbot-server","version":"1.0.0","scripts":{"start":"node index.js"},"dependencies":{"clawdbot":"latest"}}
